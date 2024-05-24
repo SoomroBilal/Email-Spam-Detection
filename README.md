@@ -1,0 +1,1 @@
+In this project three models are trained to detect spammed emails. Those models are Decision Tree Classifier, Naive Bayes(Gaussian), and Naive Bayes Multinomial. Comparison of the models was also done.
